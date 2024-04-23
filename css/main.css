@@ -2119,7 +2119,7 @@ header .logo a {
 	text-align: center;
 }
 #stats .row {
-	max-width: 1440px;
+	max-width: 2000px;
 }
 #stats .stat {
 	border-left: 1px solid rgba(255, 255, 255, 0.12);
@@ -2432,7 +2432,7 @@ footer a:hover, footer a:focus {
 	color: #FF0077;
 }
 footer .row {
-	max-width: 1200px;
+	max-width: 900px;
 }
 footer .social {
 	text-align: right;
