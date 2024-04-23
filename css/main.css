@@ -2178,7 +2178,7 @@ header .logo a {
  * 17. contact - (_layout.scss)
  *
  * ------------------------------------------------------------------- 
- */
+ *
 #contact {
 	background: #151515;
 	padding-top: 12rem;
@@ -2194,7 +2194,7 @@ header .logo a {
 	color: rgba(255, 255, 255, 0.7);
 }
 
-/* contact form */
+/* contact form *
 .contact-form {
 	max-width: 740px;
 }
@@ -2203,10 +2203,10 @@ header .logo a {
 	color: rgba(255, 255, 255, 0.3);
 }
 .contact-form :-moz-placeholder {
-	color: rgba(255, 255, 255, 0.3);  /* Firefox 18- */
+	color: rgba(255, 255, 255, 0.3);  /* Firefox 18- *
 }
 .contact-form ::-moz-placeholder {
-	color: rgba(255, 255, 255, 0.3);  /* Firefox 19+ */
+	color: rgba(255, 255, 255, 0.3);  /* Firefox 19+ *
 }
 .contact-form :-ms-input-placeholder {
 	color: rgba(255, 255, 255, 0.3);
@@ -2316,7 +2316,7 @@ header .logo a {
 	margin-right: 10px;
 }
 
-/* form loader */
+/* form loader *
 #submit-loader {
 	display: none;
 	position: relative;
@@ -2361,7 +2361,7 @@ header .logo a {
 /**
  * loader animation - (_layout.scss)
  * --------------------------------------------------------------- 
- */
+ *
 .s-loader {
 	margin: 1.2rem auto 3rem;
 	width: 70px;
