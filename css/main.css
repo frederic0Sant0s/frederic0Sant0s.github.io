@@ -2119,7 +2119,7 @@ header .logo a {
 	text-align: center;
 }
 #stats .row {
-	max-width: 2000px;
+	max-width: 1440px;
 }
 #stats .stat {
 	border-left: 1px solid rgba(255, 255, 255, 0.12);
@@ -2471,7 +2471,7 @@ footer .copyright span:last-child::after {
  * footer
  * -------------------------------------------------------------------
  */
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:900px) {
 	footer {
 		text-align: center;
 	}
