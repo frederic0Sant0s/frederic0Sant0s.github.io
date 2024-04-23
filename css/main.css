@@ -2477,7 +2477,7 @@ footer .copyright span:last-child::after {
 	}
 	footer .social {
 		display: block;
-		width: 100%;
+		width: 125%;
 		text-align: center;
 		margin-bottom: 1.5rem;
 	}
