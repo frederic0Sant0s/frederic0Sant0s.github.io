@@ -2421,7 +2421,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 footer {
-	padding-bottom: 10rem;
+	padding-bottom: 3rem;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
 }
@@ -2443,7 +2443,7 @@ footer .footer-social {
 	margin: 0;
 	padding: 0;
 	position: relative;
-	top: 3rem;
+	top: 0rem;
 }
 footer .footer-social li {
 	display: inline-block;
