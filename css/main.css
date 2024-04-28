@@ -2432,7 +2432,7 @@ footer a:hover, footer a:focus {
 	color: #FF0077;
 }
 footer .row {
-	max-width: 2000px;
+	max-width: 900px;
 }
 footer .social {
 	text-align: right;
@@ -2477,9 +2477,9 @@ footer .copyright span:last-child::after {
 	}
 	footer .social {
 		display: block;
-		width: 125%;
+		width: 100%;
 		text-align: center;
-		margin-bottom: 1.5rem;
+		margin-bottom: 1rem;
 	}
 	footer .copyright span {
 		display: block;
